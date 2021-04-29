@@ -1,0 +1,8 @@
+name = "STWCrosswalk"
+uuid = "1be2fb36-2727-43c6-923e-539c638436eb"
+authors = ["José Bayoán Santiago Calderón <jbs3hp@virginia.edu>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+LibPQ = "194296ae-ab2e-5f79-8cd4-7183a0a5a0d1"
